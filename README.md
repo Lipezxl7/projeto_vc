@@ -3,6 +3,10 @@
 Programa que identifica pessoas em um vídeo usando YOLO e exibe a
 quantidade de pessoas detectadas em uma janela.
 
+![alt text]({547CD1E3-4132-4037-A476-AEDEAAA6862E}.png)
+
+
+
 ## Requisitos
 
 - Python 3.14
