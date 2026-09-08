@@ -3,7 +3,7 @@
 Programa que identifica pessoas em um vídeo usando YOLO e exibe a
 quantidade de pessoas detectadas em uma janela.
 
-![alt text](print.png)
+![alt text](assents/print.png)
 
 
 
